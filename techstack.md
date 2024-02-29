@@ -5,8 +5,8 @@ donaldww/ex_ncurses is built on the following main stack:
 
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [Elixir](http://elixir-lang.org/) – Languages
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -18,8 +18,8 @@ donaldww/ex_ncurses is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1974/drop.png' alt='Elixir'/> [Elixir](http://elixir-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [donaldww/ex_ncurses](https://github.com/donaldww/ex_ncurses)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|01/05/24 <br/>Report generated|
+|5<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
